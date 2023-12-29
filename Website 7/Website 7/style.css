@@ -1,0 +1,58 @@
+#logo-img {
+    height: 150px;
+    width: 150px;
+}
+
+header {
+    background-color: gray;
+
+}
+
+header a {
+    color: #FBB13A;
+}
+
+h1 {
+    color: #C064FF;
+}
+
+.title-1 {
+    color: #C064FF;
+}
+
+.text-1 {
+    color: #FBB13A;
+font-weight: bold;
+font-size: 20px;
+}
+
+footer p {
+    background-color: gray;
+    color: #FBB13A;
+    font-weight: bolder;
+}
+
+#beach-section {
+border: 10px;
+border-radius: 20px;
+padding: 20px 30px;
+margin: 50px    auto;
+width: 1000px;
+
+}
+
+ul, header {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    gap: 10px;
+}
+
+header {
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    padding: 10px 15px;
+}
+
+    
